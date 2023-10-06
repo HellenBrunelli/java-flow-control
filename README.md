@@ -1,5 +1,13 @@
 # Desafio: Controle de Fluxo
 
+<video controls>
+  <source src="./src/assets/flow-control.mp4" type="video/webm">
+  Seu navegador não suporta a reprodução de vídeos WebM.
+</video>
+
+
+<br>
+
 Você pode navegar e ver informações: 
 Sobre o Projeto e Sobre o Desafio.
 
